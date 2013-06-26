@@ -2,7 +2,7 @@
 Django Subforms
 ***************
 
-This project has two major logical section:
+This project has two major logical sections:
 
 - mapper
 - hierarchical forms
